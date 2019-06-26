@@ -1,24 +1,18 @@
-# README
+# Toy App Make by Ruby on Rails (RoR)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A [tutorial project](https://www.railstutorial.org/book/toy_app) for start to learn Ruby on Rails.
 
-Things you may want to cover:
+## Note
 
-* Ruby version
+- Running Environment
 
-* System dependencies
+```shell
+➜  toy_app git:(master) ✗ ruby -v
+ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-darwin17]
+```
 
-* Configuration
+- [Gemfile](https://www.railstutorial.org/book/toy_app#code-demo_gemfile_sqlite_version_redux) for this project.
 
-* Database creation
+## Links
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Ruby on Rails Tutorials (Rails 5)](https://www.railstutorial.org/book)
