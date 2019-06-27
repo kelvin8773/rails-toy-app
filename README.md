@@ -11,8 +11,6 @@ A [tutorial project](https://www.railstutorial.org/book/toy_app) for start to le
 ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-darwin17]
 ```
 
-- [Gemfile](https://www.railstutorial.org/book/toy_app#code-demo_gemfile_sqlite_version_redux) for this project.
-
 ## Links
 
 - [Ruby on Rails Tutorials (Rails 5)](https://www.railstutorial.org/book)
